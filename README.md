@@ -1,1 +1,1 @@
-# Swift_Calculator
+This is a swift application that works as a calculator. A majority of the business logic is done in the 'CalculatorBrain' class. The next step is to continue building the graph section of the application.
